@@ -10,7 +10,8 @@ You need:
 * a Sonoff mini with an original firmware 3.1.x or higher,
 * Perl and perl-libwww,
 * an access point (e.g. wifi guest network) with SSID `sonoffDiy` and password `20170618sn`,
-* a webserver in your local network with the new firmware.
+* a webserver in your local network with the new firmware,
+* the tools `avahi-browse` and `curl` have to be installed.
 
 ## Procedure
 1. The wifi network and the webserver have to be started.
